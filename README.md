@@ -43,4 +43,6 @@
 
 
 ## ⭐️ 요구사항 분석과정
+![image](https://github.com/user-attachments/assets/67f22e71-a552-42d4-b6cc-3a7bbeb4e942)
+
 
